@@ -24,32 +24,28 @@
 - Rokid Panda
 - Rokid Glass
 
-如果在使用这些产品开发时遇到的问题，那么可以就在本仓库创建 [Issue](https://github.com/Rokid/Community/issues/new?template=bug-report.md) 反馈，其他非开发类的使用问题，应当按照在我们的[服务及保修政策](https://origin-resources.rokid.com/cn/service.html)页面查看。
+如果在使用这些产品开发时遇到的问题，那么可以就在本仓库创建 [Issue](https://github.com/rokid/community/issues/new?template=bug-report.md) 反馈，其他非开发类的使用问题，应当按照在我们的[服务及保修政策](https://origin-resources.rokid.com/cn/service.html)页面查看。
 
 ### 开放平台
 
-开放平台包括：
+遇到开放平台使用过程中的问题，可以在本仓库创建 [Issue](https://github.com/Rokid/Community/issues/new?template=bug-report.md) 讨论，另外如果遇到文档相关的问题，可在 [rokid/docs][] 反馈。
 
-- 语音开放平台，问题可在 [Rokid/OpenVoice][] 反馈
-- Rokid Glass，问题可在 [Rokid/RokidGlass][] 反馈
-
-[Rokid/OpenVoice]: https://github.com/Rokid/OpenVoice
-[Rokid/RokidGlass]: https://github.com/Rokid/RokidGlass
+[rokid/docs]: https://github.com/rokid/docs
 
 ### 开源项目
 
 我们在社区也创建了一些独立的开源项目，比如：
 
 - YodaOS 遇到问题可在 [yodaos-project/yodaos][] 反馈
-- [NextForum][]：基于 Vue 的 Discourse 论坛主题
-- [ELMo-chinese][]：Deep contextualized word representations for Chinese
+- [rokid/NextForum][]：基于 Vue 的 Discourse 论坛主题
+- [rokid/ELMo-chinese][]：Deep contextualized word representations for Chinese
 
-更多开源项目可以在 [Rokid][] 中查看，针对这类项目，相关问题建议在对应的仓库反馈。
+更多开源项目可以在 [rokid][] 组织中查看，针对这类项目，相关问题建议在对应的仓库反馈。
 
 [yodaos-project/yodaos]: https://github.com/yodaos-project/yodaos
-[NextForum]: https://github.com/Rokid/NextForum
-[ELMo-chinese]: https://github.com/Rokid/ELMo-chinese
-[Rokid]: https://github.com/Rokid
+[rokid/NextForum]: https://github.com/rokid/NextForum
+[rokid/ELMo-chinese]: https://github.com/rokid/ELMo-chinese
+[rokid]: https://github.com/rokid
 
 ## License
 
