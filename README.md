@@ -24,7 +24,7 @@
 - Rokid Panda
 - Rokid Glass
 
-如果在使用这些产品开发时遇到的问题，那么可以就在本仓库创建 Issue 反馈，其他非开发类的使用问题，应当按照在我们的[服务及保修政策](https://origin-resources.rokid.com/cn/service.html)页面查看。
+如果在使用这些产品开发时遇到的问题，那么可以就在本仓库创建 [Issue](https://github.com/Rokid/Community/issues/new?template=bug-report.md) 反馈，其他非开发类的使用问题，应当按照在我们的[服务及保修政策](https://origin-resources.rokid.com/cn/service.html)页面查看。
 
 ### 开放平台
 
