@@ -28,7 +28,7 @@
 
 ### 开放平台
 
-[开放平台](https://developer.rokid.com/) 为广大开发者提供语音和视觉方面的能力，语音方面包括语音识别、语音合成、技能开发等，而视觉能力则依托与 RokidGlass 等产品提供了人脸、车牌等识别能力，如果想了解开放平台，可以先从[平台文档][]开始，如果遇到文档相关的问题，可以在 [rokid/docs][] 仓库反馈。
+[开放平台](https://developer.rokid.com/) 为广大开发者提供语音和视觉方面的能力，语音方面包括语音识别、语音合成、技能开发等，而视觉能力则依托与 RokidGlass 等产品提供了人脸、车牌等识别能力，如果想了解开放平台，可以先从[平台文档][]开始，如果遇到文档相关的问题，也可在 [rokid/docs][] 仓库反馈。
 
 遇到开放平台使用过程中的问题，可以在本仓库创建 [Issue](https://github.com/Rokid/Community/issues/new?template=bug-report.md) 反馈。
 
