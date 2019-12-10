@@ -2,7 +2,7 @@
 name: Development Issue
 about: 关于技能开发， 语音接入， 智能家居接入， 接入协议相关的问题
 title: ''
-labels: bug
+labels: development
 assignees: yorkie
 
 ---
