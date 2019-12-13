@@ -2,7 +2,7 @@
 name: Ask a question
 about: 关于协议，文档，开发，使用的相关问题
 title: 'Ask a Question'
-labels: development
+labels: question
 assignees: yorkie
 
 ---
